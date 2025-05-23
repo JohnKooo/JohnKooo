@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi 👋 I am John
+### Software/Game Developer
+
+TODO...
+
+### Skills
+TODO...
+
+### Socials
+TODO...
+
+### Extra
+TODO...
 
 <!--
 **JohnKooo/JohnKooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
